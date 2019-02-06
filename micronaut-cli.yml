@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: ru.einster
+---
+testFramework: junit
+sourceLanguage: java

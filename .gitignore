@@ -1,0 +1,13 @@
+# IntelliJ
+out/
+
+*.iml
+*.iws
+*.ipr
+*.class
+*.log
+*.jar
+.gradle
+/build/
+**/build/
+
